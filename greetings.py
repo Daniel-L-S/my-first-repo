@@ -13,3 +13,23 @@ if __name__ == "__main__":
     print(shout("World"))
 
 print("DEBUG: delete me before sharing!")
+
+print("###### ERROR ;) #######")
+
+print("###### ERROR ;) #######")
+
+print("###### ERROR ;) #######")
+
+print("###### ERROR ;) #######")
+
+print("###### ERROR ;) #######")
+
+print("###### ERROR ####### :) ")
+
+print("###### ERROR ####### :) ")
+
+print("###### ERROR ####### :) ")
+
+print("###### ERROR ####### :) ")
+
+print("###### Correction ;) ####### ")
