@@ -1,37 +1,3 @@
-def greet(name):
-    return f"Hello, {name}! Welcome to the lab."
 
-def farewell(name):
-    return f"Goodbye, {name}, see you next time!"
-
-def shout(name):
-    return f"HELLO {name.upper()}!!!"
-
-if __name__ == "__main__":
-    print(greet("World"))
-    print(farewell("World"))
-    print(shout("World"))
-
-print("DEBUG: delete me before sharing!")
-
-print("###### ERROR ;) #######")
-
-print("###### ERROR ;) #######")
-
-print("###### ERROR ;) #######")
-
-print("###### ERROR ;) #######")
-
-print("###### ERROR ;) #######")
-
-print("###### ERROR ####### :) ")
-
-print("###### ERROR ####### :) ")
-
-print("###### ERROR ####### :) ")
-
-print("###### ERROR ####### :) ")
-
-print("###### Correction ;) ####### ")
-
-print("###### Correction ;) ####### ")
+def goodnight(name):
+    return f"Goodnight, {name}"
